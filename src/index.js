@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import SampleuseEffect1 from "./SampleuseEffect1.js"
-import "./index.css"
+import SampleUseState3 from "./SampleUseState3.js";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-<SampleuseEffect1/>
+<SampleUseState3/>
 );
